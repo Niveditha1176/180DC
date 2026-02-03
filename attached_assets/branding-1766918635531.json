@@ -1,0 +1,83 @@
+{
+  "colorScheme": "light",
+  "fonts": [
+    {
+      "family": "sans-serif",
+      "count": 69
+    },
+    {
+      "family": "Avenir Black",
+      "count": 41
+    },
+    {
+      "family": "Lato",
+      "count": 28
+    }
+  ],
+  "colors": {
+    "primary": "#73B744",
+    "accent": "#049648",
+    "background": "#FFFFFF",
+    "textPrimary": "#222222",
+    "link": "#049648"
+  },
+  "typography": {
+    "fontFamilies": {
+      "primary": "Lato",
+      "heading": "Avenir Black"
+    },
+    "fontStacks": {
+      "body": [
+        "Lato",
+        "sans-serif"
+      ],
+      "heading": [
+        "Avenir Black",
+        "sans-serif"
+      ],
+      "paragraph": [
+        "Lato",
+        "sans-serif"
+      ]
+    },
+    "fontSizes": {
+      "h1": "53px",
+      "h2": "75px",
+      "body": "16px"
+    }
+  },
+  "spacing": {
+    "baseUnit": 4,
+    "borderRadius": "0px"
+  },
+  "components": {},
+  "images": {
+    "logo": "File saved at: attached_assets/logo.avif",
+    "favicon": "File saved at: attached_assets/favicon.png",
+    "ogImage": null
+  },
+  "__framework_hints": [],
+  "__llm_logo_reasoning": {
+    "selectedIndex": 0,
+    "reasoning": "Strong indicators: header logo linking to homepage, header location, visible, top-left position, highest logo on page, class contains logo, reasonable size. Score: 117 (clear winner by 112 points)",
+    "confidence": 0.9
+  },
+  "__llm_button_reasoning": {
+    "primary": {
+      "index": -1,
+      "text": "N/A",
+      "reasoning": "LLM failed"
+    },
+    "secondary": {
+      "index": -1,
+      "text": "N/A",
+      "reasoning": "LLM failed"
+    },
+    "confidence": 0
+  },
+  "confidence": {
+    "buttons": 0,
+    "colors": 0,
+    "overall": 0
+  }
+}

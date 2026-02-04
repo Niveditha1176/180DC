@@ -1,6 +1,6 @@
 
 # 180DC Consulting frontend
-
+using react vite and typescript 
 
 
 ## how to Quick start 
